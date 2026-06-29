@@ -18,7 +18,7 @@ context: where to start, evidence vs. hypothesis.
 
 *I build slowly and correctly. Reliability over feature count.*
 
-📫 [LinkedIn](https://www.linkedin.com/in/michelle-braz-perfil)
+📫 [LinkedIn](https://www.linkedin.com/in/michelle-braz-perfil) · 📧 michelle@ravenrisk.dev
 
 <details>
 <summary>🇧🇷 Português</summary>
@@ -30,4 +30,21 @@ incidentes.
 
 O conhecimento de *como os sistemas quebram e quem resolveu o quê* costuma
 viver na cabeça das pessoas. O RAVEN transforma dados dispersos em contexto
-consultável: por
+consultável: por onde começar, evidência vs. hipótese.
+
+🛠️ Python · FastAPI · REST APIs
+🔍 QA e testes de software → builder/founder
+🌍 Lisboa
+
+**Agora**
+- 🐦 **RAVEN** — API de inteligência para incidentes, em produção (deploy,
+  docs, auth por API Key). Validando contra incidentes reais, reduzindo
+  falsos positivos.
+- 🏦 **banco-api** — API bancária reconstruída com arquitetura em camadas
+  e testes automatizados.
+
+*Construo devagar e certo. Confiabilidade acima de quantidade de features.*
+
+📫 [LinkedIn](https://www.linkedin.com/in/michelle-braz-perfil) · 📧 michelle@ravenrisk.dev
+
+</details>
