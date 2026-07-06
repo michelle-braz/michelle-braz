@@ -22,10 +22,10 @@ _I build slowly and correctly. Reliability over feature count._
 
 ---
 
-🇵🇹 Portuguese version available below.
+Portuguese version available below.
 
 <details>
-<summary>🇵🇹 Português</summary>
+<summary>Português</summary>
 
 # Oi, eu sou a Michelle 👋
 
